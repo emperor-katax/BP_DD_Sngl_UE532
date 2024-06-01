@@ -10,10 +10,9 @@ Home: www.kataxwork.com<br>
 
 This application:
 
-> Drag and Drop by using F key<br> 
-> Shoot items after solving puzzle by using E key <br> 
-> Communication with GameMode to check game logics <br>  
-> Blueprint only <br> 
+> Drag and Drop by using F key<br>
+> Shoot items after solving puzzle by using E key <br>
+> Communication with GameMode to check game logics <br>
 
 
 Using:
