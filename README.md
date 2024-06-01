@@ -1,33 +1,28 @@
 # BP_DD_Sngl_UE532
-
-Developed with Unreal Engine 5.3.2
-by: Katax 
+Developed with Unreal Engine 5.3.2 <br> 
+by: Katax
  
-LinkedIn: www.linkedin.com/in/cliff-sharif <b>
- 
-Home: www.kataxwork.com <b><b><b>
+LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
+Home: www.kataxwork.com<br> 
 
-This application: <b>
+> [!NOTE]
+> Blueprint only
 
-> Drag and Drop by using F key <b>
+This application:
 
-> Shoot items after solving puzzle by using E key <b>
- 
-> Communication with GameMode to check game logics <b>
- 
-> Blueprint only <b><b><b>
+> Drag and Drop by using F key<br> 
+> Shoot items after solving puzzle by using E key <br> 
+> Communication with GameMode to check game logics <br>  
+> Blueprint only <br> 
 
 
-Using:<b>
+Using:
  
-Drag and Drop functionality<b>
- 
-Physic Handler<b>
- 
-Widget<b>
- 
-GameMode <b>
+Drag and Drop functionality<br> 
+Physic Handler<br> 
+Widget<br> 
+GameMode<br> 
+Impulse <br> 
+Collision handling<br> 
 
-Impulse <b>
- 
-Collision handling </b><b><b>
+<h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
